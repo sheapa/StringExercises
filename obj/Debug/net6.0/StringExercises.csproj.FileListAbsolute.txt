@@ -1,0 +1,15 @@
+C:\Users\patri\source\repos\StringExercises\StringExercises\obj\Debug\net6.0\StringExercises.csproj.AssemblyReference.cache
+C:\Users\patri\source\repos\StringExercises\StringExercises\obj\Debug\net6.0\StringExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\source\repos\StringExercises\StringExercises\obj\Debug\net6.0\StringExercises.AssemblyInfoInputs.cache
+C:\Users\patri\source\repos\StringExercises\StringExercises\obj\Debug\net6.0\StringExercises.AssemblyInfo.cs
+C:\Users\patri\source\repos\StringExercises\StringExercises\obj\Debug\net6.0\StringExercises.csproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\StringExercises\StringExercises\bin\Debug\net6.0\StringExercises.exe
+C:\Users\patri\source\repos\StringExercises\StringExercises\bin\Debug\net6.0\StringExercises.deps.json
+C:\Users\patri\source\repos\StringExercises\StringExercises\bin\Debug\net6.0\StringExercises.runtimeconfig.json
+C:\Users\patri\source\repos\StringExercises\StringExercises\bin\Debug\net6.0\StringExercises.dll
+C:\Users\patri\source\repos\StringExercises\StringExercises\bin\Debug\net6.0\ref\StringExercises.dll
+C:\Users\patri\source\repos\StringExercises\StringExercises\bin\Debug\net6.0\StringExercises.pdb
+C:\Users\patri\source\repos\StringExercises\StringExercises\obj\Debug\net6.0\StringExercises.dll
+C:\Users\patri\source\repos\StringExercises\StringExercises\obj\Debug\net6.0\ref\StringExercises.dll
+C:\Users\patri\source\repos\StringExercises\StringExercises\obj\Debug\net6.0\StringExercises.pdb
+C:\Users\patri\source\repos\StringExercises\StringExercises\obj\Debug\net6.0\StringExercises.genruntimeconfig.cache
